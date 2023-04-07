@@ -1,4 +1,4 @@
-# sorting-visualizer-using-JavaScript
+# Sorting-Visualizer-Using-JavaScript
 The goal of the project is to create a web application that can visualize how different sorting algorithms work by animating the process of sorting an array of random data.
 
 We implemented six different sorting algorithms: Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort, and Heap Sort. The user can select which algorithm they want to visualize from a dropdown menu, and the corresponding algorithm is applied to the randomly generated data.
