@@ -6,3 +6,8 @@ We implemented six different sorting algorithms: Bubble Sort, Insertion Sort, Se
 Each algorithm was implemented as an asynchronous function that allows the visualization to be paused at certain points, which enables us to display the steps of the algorithm in the animation. We used the HTML5 Canvas API to draw the bars representing the data and used requestAnimationFrame() to update the canvas and create the animation.
 
 Overall, the project helped us understand how different sorting algorithms work and how we can use JavaScript to visualize them.
+
+Here is the link:
+https://caseymessi05.github.io/sorting-visualizer-using-JavaScript/
+
+Enjoy :))
